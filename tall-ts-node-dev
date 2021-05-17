@@ -1,0 +1,29 @@
+[33mcommit efa06ff69258821d1889364fa7a4db0dbac86955[m[33m ([m[1;36mHEAD -> [m[1;32minstall-ts-node-dev[m[33m, [m[1;31morigin/install-ts-node-dev[m[33m)[m
+Author: gurimu600 <yohtatest@gmail.com>
+Date:   Mon May 17 09:44:33 2021 +0900
+
+    install ts-node-dev
+
+[33mcommit 954388d3083bc69469f76a3a602923931a49c32c[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/insutall-ts-node[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m, [m[1;32minsutall-ts-node[m[33m)[m
+Author: gurimu600 <yohtatest@gmail.com>
+Date:   Thu May 13 16:52:21 2021 +0900
+
+    install ts-node
+
+[33mcommit 36f61a26ba977b78e85f2ef80562a3e157b628da[m[33m ([m[1;31morigin/install-typescript[m[33m, [m[1;32minstall-typescript[m[33m)[m
+Author: gurimu600 <yohtatest@gmail.com>
+Date:   Thu May 13 15:38:28 2021 +0900
+
+    install typescript
+
+[33mcommit 7ad8954dc5b931985967af3839d9f28d500c7f4b[m[33m ([m[1;31morigin/create-package-json[m[33m, [m[1;32mcreate-package-json[m[33m)[m
+Author: gurimu600 <yohtatest@gmail.com>
+Date:   Thu May 13 11:53:06 2021 +0900
+
+    create package.json
+
+[33mcommit e1fea7538574738cafa569efbcbf647e0bd02434[m
+Author: ohtayoshimi <44198780+ohtayoshimi@users.noreply.github.com>
+Date:   Thu May 13 10:24:29 2021 +0900
+
+    Initial commit
